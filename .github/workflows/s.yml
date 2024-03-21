@@ -1,4 +1,4 @@
-name: Test
+name: X Hosting
 
 on: [push, workflow_dispatch]
 
