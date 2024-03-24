@@ -1,4 +1,4 @@
-name: freerdp 6h
+name: web
 
 on: [push, workflow_dispatch]
 
