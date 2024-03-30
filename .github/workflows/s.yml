@@ -1,4 +1,4 @@
-name: web
+name: frdp
 
 on: [push, workflow_dispatch]
 
