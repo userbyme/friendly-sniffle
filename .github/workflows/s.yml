@@ -1,5 +1,3 @@
-name: frdp
-
 on: [push, workflow_dispatch]
 
 jobs:
