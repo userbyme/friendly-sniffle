@@ -5,7 +5,7 @@ on: [push, workflow_dispatch]
 jobs:
   build:
 
-    runs-on: windows-latest
+    runs-on: windows-latest-large
     
     steps:
     - name: Download
