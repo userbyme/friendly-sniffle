@@ -1,4 +1,4 @@
-name: frdp
+name: frdp 6hour
 
 on: [push, workflow_dispatch]
 
